@@ -1,0 +1,19 @@
+insert into supplier(supplierID, supplierName) 
+values
+('S0000001', 'Nilight'), 
+('S0000002', 'Philips'), 
+('S0000003', 'Winjet'), 
+('S0000004', 'SiriusLED'), 
+('S0000005', 'WeatherTech'), 
+('S0000006', 'Auto Ventshade'), 
+('S0000007', 'Bosch'), 
+('S0000008', 'Kanebo'), 
+('S0000009', 'Rain Tech'), 
+('S0000010', 'Isoka'), 
+('S0000011', 'JSL'), 
+('S0000012', 'ARB'), 
+('S0000013', 'Enkei'), 
+('S0000014', 'Dunlop'), 
+('S0000015', 'Yokohama'), 
+('S0000016', 'Solar Gard'), 
+('S0000017', '3M');

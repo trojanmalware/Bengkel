@@ -1,0 +1,7 @@
+insert into promo (promoID, promoName, startDate, finishDate) values
+
+('PROMO001', 'buy 4 tires get 1 tire free', 20180101, 20180301), 
+('PROMO002', 'last order free carwash', 20180401, 20180630), 
+('PROMO003', 'buy selected product more than 2 items get 1 free', 20180701, 20180801),  
+('PROMO004', 'year end sale', 20181001, 20181231), 
+('PROMO005', 'clearance sale', 20180801, 20180930);

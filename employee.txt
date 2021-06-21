@@ -1,0 +1,29 @@
+INSERT into employee (employeeID, firstName, lastName, sex, dateOfBirth, address, city, zipCode, email, phoneNumber, jobName, dateJoin, salary)
+
+VALUES
+			
+('E0000001', 'Marquita', 'Dedman', 'Female', '1980-11-01', '3 Dixon Way', 'Jakarta', '11800', 'mdedman0@amazon.com', '(119) 5488248', 'Engineer I', '2018-01-01', '331035662'),
+('E0000002', 'Griz', 'De Luna', 'Male', '1971-08-01', '591 Corscot Road', 'Jakarta', '11700', 'gdeluna1@cnet.com', '(922) 1514662', 'Senior Cost Accountant', '2018-01-01', '594766178'),
+('E0000003', 'Chrissy', 'Honeyghan', 'Male', '1975-08-03', '8 Harbort Junction', 'Jakarta', '11820', 'choneyghan2@cmu.edu', '(223) 4534430', 'Accounting Assistant II', '2018-01-01', '990843080 '),
+('E0000004', 'Verene', 'Fransemai', 'Female', 1993-02-21', '70 Roth Parkway', 'Jakarta', '11830', 'vfransemai3@illinois.edu', '(571) 8065649', 'Professor', '2018-01-01', '490623935'),
+('E0000005', 'Kiley', 'Neles', 'Male', 1970-12-10', '2 7th Road', 'Jakarta', '13120', 'kneles4@harvard.edu', '(289) 7390640', 'Associate Professor', '2018-01-01', '946585655 '),
+('E0000006', 'Floris', 'Leaton', 'Female', 1966-03-06', '39 Donald Park', 'Jakarta', '11200', 'fleaton5@craigslist.org', '(288) 8615233', 'VP Quality Control', '2018-01-01', '904528209 '),
+('E0000007', 'Gregoor', 'Mossdale', 'Male', 1968-09-22', '24 Forest Plaza', 'Jakarta', '13100', 'gmossdale6@state.tx.us', '(617) 5482041', 'Food Chemist', '2018-01-01', '974661872 '),
+('E0000008', 'Giselle', 'Winterborne', 'Female', 1972-04-23', '94706 Park Meadow Park', 'Jakarta', '11110', 'gwinterborne7@loc.gov', '(203) 1272870', 'Software Test Engineer IV', '2018-01-01', '640890704 '),
+('E0000009', 'Bone', 'Latty', 'Male', 1993-09-10', '7 Laurel Plaza', 'Jakarta', '12120', 'blatty8@npr.org', '(205) 8680233', 'Research Nurse', '2018-01-01', '934267350 '),
+('E0000010', 'Eleni', 'Sowood', 'Female', 1963-01-22', '67 Katie Drive', 'Tangerang', '15812', 'Esowood9@icio.us', '(804) 6373114', 'Accounting Assistant II', '2018-01-01', '318789895 '),
+('E0000011', 'Yvonne', 'Greenfield', 'Female', 1982-01-02', '6 Hauk Place', 'Jakarta', '10110', 'ygreenfielda@com.com', '(741) 8780844', 'Computer Systems Analyst I', '2018-01-01', '969182705 '),
+('E0000012', 'Noreen', 'Linnemann', 'Female', 1970-05-30', '457 Talisman Lane', 'Jakarta', '11810', 'nlinnemannb@oaic.gov.au', '(626) 9084531', 'VP Marketing', '2018-01-01', '417252767 '),
+('E0000013', 'Annemarie', 'Balstone', 'Female', 1972-12-14', '22 Warner Alley', 'Jakarta', '11910', 'abalstonec@eepurl.com', '(479) 4574873', 'Recruiting Manager', '2018-01-01', '343280988 '),
+('E0000014', 'Leshia', 'MacTrustam', 'Female', 1980-11-11', '132 Stang Place', 'Jakarta', '11850', 'lmactrustamd@live.com', '(368) 8505337', 'Junior Executive', '2018-01-01', '926753003 '),
+('E0000015', 'Tybalt', 'Tofpik', 'Male', '1993-03-11', '84 1st Alley', 'Jakarta', '11800', 'ttofpike@yolasite.com', '(630) 6064636', 'Mechanical Systems Engineer', '2018-01-01', '953063887 '),
+('E0000016', 'Petey', 'Papes', 'Male', 1992-12-10', '52774 Shopko Circle', 'Tangerang', '15810', 'ppapesf@europa.eu', '(497) 4496418', 'VP Product Management', '2018-01-01', '374600325 '),
+('E0000017', 'Cassey', 'Jillings', 'Female', 1988-01-01', '9582 Rockefeller Place', 'Jakarta', '11900', 'cjillingsg@mashable.com', '(473) 3687169', 'Research Nurse', '2018-01-01', '858360650 '),
+('E0000018', 'Lotta', 'Worham', 'Female', 1978-04-17', '7 Toban Parkway', 'Jakarta', '11550', 'lworhamh@shareasale.com', '(984) 9725538', 'Media Manager I', '2018-01-01', '795267028 '),
+('E0000019', 'Barron', 'Boriston', 'Male', 1980-05-08', '324 Chive Street', 'Jakarta', '11800', 'bboristoni@arstechnica.com', '(907) 5435992', 'Social Worker', '2018-01-01', '764867827 '),
+('E0000020', 'Care', 'Elvy', 'Male', 1984-08-01', '1031 Hoffman Crossing', 'Jakarta', '11730', 'celvyj@forbes.com', '(414) 6292780', 'Accounting Assistant II', '2018-01-01', '612420122 '),
+('E0000021', 'Bevan', 'Sutherns', 'Male', 1968-04-13', '20 Donald Avenue', 'Jakarta', '11201', 'bsuthernsk@mediafire.com', '(341) 3655779', 'Mechanical Systems Engineer', '2018-01-01', '657110941 '),
+('E0000022', 'Maurizia', 'Bispham', 'Female', 1997-12-12', '9 Nancy Plaza', 'Jakarta', '11830', 'mbisphaml@pagesperso-orange.fr', '(710) 3389595', 'Sales Representative', '2018-01-01', '367107066 '),
+('E0000023', 'Isac', 'Santore', 'Male', 1999-06-08', '87729 Coolidge Center', 'Jakarta', '11811', 'isantorem@sogou.com', '(825) 6750507', 'Nurse Practicioner', '2018-01-01', '371261658 '),
+('E0000024', 'Vince', 'Motte', 'Male', 1987-07-12', '5 Crownhardt Way', 'Jakarta', '11010', 'vmotten@odnoklassniki.ru', '(184) 9896474', 'Editor', '2018-01-01', '887662595 '),
+('E0000025', 'Justina', 'Strewthers', 'Female', 1982-10-22', '94864 Vahlen Terrace', 'Tangerang', '15811', 'jstrewtherso@thetimes.co.uk', '(644) 6384846', 'Help Desk Technician', '2018-01-01', '735473465 ');
